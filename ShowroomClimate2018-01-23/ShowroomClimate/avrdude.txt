@@ -1,0 +1,1 @@
+sudo avrdude -p m640 -c mcu_climate -U flash:w:ShowroomClimate.hex
